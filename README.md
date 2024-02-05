@@ -1,9 +1,6 @@
 Still searching for meaning.
 
-Working on CS50W.
-
-
-
+Building my first published Django website
 <!--
 **JosephChemaly/JosephChemaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
